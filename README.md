@@ -32,7 +32,7 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:12px;">
   <img src="https://github-readme-stats.vercel.app/api?username=pavbox&hide_border=true&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=pavbox&theme=tokyonight&short_numbers=true"/>
+  <img src="https://streak-stats.demolab.com/?user=pavbox&theme=tokyonight&short_numbers=true"/>
 </div>
 
 ### 🤝 Get in touch
