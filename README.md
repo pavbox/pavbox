@@ -22,16 +22,9 @@
 > **LangGraph & LangChain**, Retrieval‑Augmented Generation, and product metrics for ML features.
 > **MLOps Pipelines**, Image Generation (Stable-Diffusion) and Text Generation LLM training
 
-## ✍️ Latest blog entries
-
-<!--START_SECTION:telegram-->
-...
-<!--END_SECTION:telegram-->
-
 ### 📊 GitHub Stats
 
 <div align="center" style="display:flex; justify-content:center; gap:12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavbox&hide_border=true&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=pavbox&theme=tokyonight&short_numbers=true" />
 </div>
 
