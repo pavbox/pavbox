@@ -6,12 +6,15 @@
 
 I’m a **Senior iOS Software Engineer**. I build iOS apps with Swift and SwiftUI and specialize in web development with TypeScript, React and Vue. I also give internal engineering talks and run training sessions for my team.
 
-## My sites and projects
+## Projects
+
+I build my personal projects and experiment with AI development tools in my GitHub organization, [pavbox-engineering](https://github.com/pavbox-engineering).
+
+## My sites
 
 - A hands-on course in Russian about how language models work. Across 25 interactive stages, you can take a sentence apart into tokens and follow what happens as the model learns. [LLM Inside (Внутри LLM)](https://llm.pavbox.com)
 - A tool for inspecting and repairing JSON. It points to the error, shows what it changed and keeps your data in the browser. [JSON Formatter](https://json.pavbox.com)
 - My personal site, where I collect projects and write about the engineering behind them. [pavbox.com](https://pavbox.com)
-- Two early iOS apps in Swift. One browses NASA’s Mars rover photos. The other lets you save and edit draft posts with image previews. [NASA Rovers](https://github.com/pavbox/nasa_rovers) · [The Poster](https://github.com/pavbox/the_poster)
 
 ## AI engineering and research
 
